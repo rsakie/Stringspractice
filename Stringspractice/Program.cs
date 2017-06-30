@@ -78,22 +78,92 @@ namespace Stringspractice
             //{
             //    Console.WriteLine("Last must be Longer");
 
-            Console.WriteLine("Please enter your First Name:");
-            string firstName = Console.ReadLine();
+            //Console.WriteLine("Please enter your First Name:");
+            //string firstName = Console.ReadLine();
 
-            Console.WriteLine(" Please enter someone else's first Name");
-            string secondName = Console.ReadLine();
+            //Console.WriteLine("Please enter someone else's first Name");
+            //string secondName = Console.ReadLine();
 
-            if (firstName == secondName)
-            {
-                Console.WriteLine("Names are the same");
-            }
-            else
-            {
-                Console.WriteLine("Names are Different");
-            }
-            }
+            //if (firstName == secondName)
+            //{
+            //    Console.WriteLine("Names are the same");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Names are Different");
+            //}
+
+
+            //Console.WriteLine("Please enter a whole number 0 through 9:");
+            //int wholeNum = int.Parse(Console.ReadLine());
+
+            //if (wholeNum == 0)
+            //{
+            //    Console.WriteLine("Your Number has 1 Hole");
+            //}
+            //if (wholeNum == 4)
+            //{
+            //    Console.WriteLine("Your Number has 1 Hole");
+            //}
+            //else if (wholeNum == (6))
+            //{
+            //    Console.WriteLine("Your Number has 1 Hole");
+            //}
+            //else if (wholeNum == 9)
+            //{
+            //    Console.WriteLine("Your Number has 1 Hole");
+            //}
+
+            //else if (wholeNum == 8)
+            //{
+            //    Console.WriteLine("Your Number has 2 Holes");
+
+            //}
+
+            //if (wholeNum == 1)
+            //{
+            //    Console.WriteLine("Your Number has Zero Holes");
+            //}
+            //else if (wholeNum == 2)
+            //{
+            //    Console.WriteLine("Your Number has Zero Holes");
+            //}
+            //else if (wholeNum == 3)
+            //{
+            //    Console.WriteLine("Your Number has Zero Holes");
+            //}
+            //else if (wholeNum == 5)
+            //{
+            //    Console.WriteLine("Your Number has Zero Holes");
+            //}
+            //else if (wholeNum == 7)
+            //{
+            //    Console.WriteLine("Your Number has Zero Holes");
+            //}
+
+            //else 
+            //    {
+            //    Console.WriteLine("Start over");
+            //}
+
+            //        //Console.WriteLine("Start Over: I said 0 - 9");
+
+            //// user input first then last
+            //Console.WriteLine("What is your First Name?");
+            //string fName = Console.ReadLine();
+            //Console.WriteLine("What is you Last Name?");
+            //string lName = Console.ReadLine();
+            //// print first and last with space in between
+            //Console.WriteLine(fName + " " + lName);
         }
     }
+}
+           
+      
+   
+            
+
+        
+   
     
 
